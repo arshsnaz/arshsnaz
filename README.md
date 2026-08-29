@@ -58,7 +58,7 @@ public class AbubakarChanda {
 
     String role       = "Java Backend Engineer";
     String location   = "Solapur, Maharashtra, India 🇮🇳";
-    String education  = "B.Tech CSE @ N.K. Orchid College (Expected: March 2026)";
+    String education  = "B.Tech CSE @ N.K. Orchid College (June 2026)";
     String cgpa       = "7.5 / 10";
 
     String[] coreStack    = { "Java (JDK 17)", "Spring Boot", "Spring Security", "Hibernate/JPA" };
@@ -277,7 +277,6 @@ I enjoy solving complex backend challenges — optimizing API performance, desig
 👯 Open to collaborate   →  Backend Engineering | Open Source | Java/Spring Projects
 💬 Ask me about          →  Java, Spring Boot, Microservices, REST APIs, System Design, DSA
 📫 Reach me at           →  abubakarchanda3@gmail.com
-⚡ Fun fact              →  I ranked Top 2% globally in TCS CodeVita 2025!
 ```
 
 ---
