@@ -7,7 +7,7 @@ Solapur, Maharashtra, India
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abubakarchanda/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abubakarchanda3@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://abubakarchanda.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/) <!-- replace with your LeetCode profile URL -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/abubakarchanda/)
 
 ---
 
@@ -78,6 +78,8 @@ Fault-tolerant REST backend for financial tracking and analytics.
 - Integrated OpenCV face recognition with a Spring Boot and React application, reducing manual attendance errors by **90%**.
 - Role-based secure login for administrators; **40% faster** queries through SQL optimization and JDBC.
 
+[Live Demo](https://attendai-gold.vercel.app/) · [Repository](https://github.com/arshsnaz) <!-- replace with the direct repo link -->
+
 ---
 
 ## Technical Skills
@@ -110,7 +112,6 @@ Fault-tolerant REST backend for financial tracking and analytics.
 
 - **Working on:** automation tooling and scalable Java / Spring Boot systems
 - **Learning:** system design, Spring Cloud, distributed systems
-- **Open to:** backend engineering roles, open-source and Java/Spring collaboration
 
 ---
 
