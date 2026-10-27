@@ -117,5 +117,4 @@ Fault-tolerant REST backend for financial tracking and analytics.
 
 ## Contact
 
-Open to backend engineering opportunities.
 Email: [abubakarchanda3@gmail.com](mailto:abubakarchanda3@gmail.com) · [LinkedIn](https://linkedin.com/in/abubakarchanda/) · [Portfolio](https://abubakarchanda.vercel.app/)
